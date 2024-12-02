@@ -13,7 +13,7 @@ Link to the class site I'm using (from Summer 2021) [here](https://ds100.org/su2
 
 [12/1] Maybe actually this course repo: https://github.com/DS-100/su24-materials
 
-[11/2] Found a more recent site: https://ds100.org/sp24/
+[11/2] Found a more recent site: https://ds100.org/sp24/ (Github: https://github.com/DS-100/sp24-student/blob/main/hw/hw01/hw01.ipynb)
 
 [10/12] Edit: I don't think the course site works anymore. Some third-party repos I can work through: 
 - https://github.com/MartinLwx/Data100-Fall-2021-UCB?tab=readme-ov-file
