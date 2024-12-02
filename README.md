@@ -3,8 +3,9 @@
 The order of priority should be this:
 
 1. Homeworks
-2. Labs
-3. Discussions / Lectures
+2. Exams
+3. Labs
+4. Discussions / Lectures
 
 This ordering preferences actually coding over passive learning. I assume I'll use handouts / reference materials as needed.
 
