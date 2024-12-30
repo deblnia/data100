@@ -15,11 +15,5 @@ Link to the class site I'm using (from Summer 2021) [here](https://ds100.org/su2
 
 [11/2] Found a more recent site: https://ds100.org/sp24/ (Github: https://github.com/DS-100/sp24-student/blob/main/hw/hw01/hw01.ipynb)
 
-[10/12] Edit: I don't think the course site works anymore. Some third-party repos I can work through: 
-- https://github.com/MartinLwx/Data100-Fall-2021-UCB?tab=readme-ov-file
-- https://github.com/anniedang123/data100
-- https://github.com/stucky384/Data100
-- https://github.com/Ylq-127/data100
-
 Some pandas puzzles might also be good with this? 
 https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb
